@@ -38,7 +38,7 @@ def render_live_console():
 st.markdown("""
 <style>
 .stApp {
-    background: url('https://i.postimg.cc/qq41rSVP/44e54h810v9b1.jpg') no-repeat center center fixed !important;
+    background: url('https://i.ibb.co/Q7Tcg8Mm/IMG-20260405-WA0020.jpg') no-repeat center center fixed !important;
     background-size: cover !important;
     background-position: center !important;
     background-attachment: fixed !important;
@@ -55,17 +55,17 @@ st.markdown("""
 .stCard {background: rgba(255,255,255,0.02) !important;}
 .logbox {
     background: rgba(0,0,0,0.55);
-    color:#0ff;
+    color:#green;
     padding:15px;
     height:300px;
-    overflow:auto;
+    overflow:20px;
     border-radius:20px;
     box-shadow:0 0 20px rgba(0,255,255,0.35);
 }
 </style>
 """, unsafe_allow_html=True)
 
-st.markdown('<h1 style="text-align:center;">E2EE SERVER</h1>', unsafe_allow_html=True)
+st.markdown('<h1 style="text-align:center;">🤍❤️R̺K̺_R̺A̺J̺A̺ E̺2̺E̺E̺🌹</h1>', unsafe_allow_html=True)
 
 
 # ---------------- SESSION ----------------
